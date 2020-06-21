@@ -1,4 +1,4 @@
-mapboxgl.accessToken = 'pk.eyJ1Ijoibm9zaG1lY2tpZSIsImEiOiJja2JubWY2Y3IwbmJqMnhtaTVxZ2oyN21tIn0.7dm6azj_N_WZAiU5lTzcrQ';
+mapboxgl.accessToken = 'pk.eyJ1Ijoibm9zaG1lY2tpZSIsImEiOiJja2JwYm9tYzkxaTRxMndwOWhwZ2k3cnI2In0.TFYXAhbT-BhuK5k4jkXG4w';
 const openWeatherMapApiKey = "8285612423da51eb79643f99d1e7d697";
 
 const landingSpot = [
