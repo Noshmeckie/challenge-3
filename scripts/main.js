@@ -36,7 +36,8 @@ const landingSpot = [
 const map = new mapboxgl.Map({
     container: 'map',
     style: 'mapbox://styles/noshmeckie/ckbno54092kc01ilx4ue40x44',
-    zoom: 1,
+    center: [18.423300, -33.918861],
+    zoom: 15,
 });
 
 
