@@ -39,7 +39,7 @@ body {
 }
 
 .candidateMarker {
-    background-image: url('https://lh3.googleusercontent.com/proxy/vfPGsBEhhln9oX1RLD93QpklNdCFbl6DE_YnfWQWv9stzKtAGKa-YEOTP_sIzrVUBwNWp_iA-xa2sKRdzOU8IV9blb9FV4hpkpItvFMJPRHoe2EOOOXKlt4ARDWM3q2AjLV-zfhTqJX-MSL87yT72kn9yVQPN-rH');
+    background-image: url('../images/rocket.png');
     background-size: 100%;
     background-repeat: no-repeat;
     width: 80px;
